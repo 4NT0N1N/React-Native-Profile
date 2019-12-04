@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/f806ace453fe6ed323baeaa71747219c/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/4e1cb267f7d423e9c517992b5b5bc1c0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7f95ead728395d866b34fc7534166e49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/b45ec582e99a1a83b43df1fd89078cf7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/792e20796f309563926fac5922c0c09b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/0c0bbd00920c28589639f12a49a99cd7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/d887ffedb2352323fc80a6b6761b85eb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/902214417e3b7484e524e938443c2bc2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/617340ee2fdcfab41bdb5327a7d6b762/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/1816518bde527e5d7f2d6be14d6b0d02/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/960c61c1ce7602cdf0650d0d978bda88/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/a5b1536f582c148892f5c24721e2c09d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7b64cc84b6ba06e7b26a2d0d71b89d93/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/2c7d568bfae6e91c6e65cea1702509e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/a2c4ee8f9cb309dd5e4240d91f082cc8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/550939e21c7a154c21a3ef6195c1fdac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/fe4a6d9dc1418d522b4e0fc719249e65/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/0f5e0659575f9002947abe0c1acba99e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/3a05051e904c37ce68f07ba6be24d1c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/cb51e319fedeb92a206262195a530df7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/28042e6d5fd95db41db3efc8b297e393/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/213e22c5b9a9d7773ca8345004dfb2d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/00d8de585434949a12882c8fd9d00bb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/bff55977ef735392840c3f096bac6048/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/5c46219e1590cb8f712c3aa43ef3e859/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/bfb56c6715e0e3ded22374e0b8ec391b/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/fcadcb4d5127d9086598361b31a7b274/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/b5c38d0d2241f4769c7a56970315dabe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/91723d499c42482d0ae5ef5d5a815ca6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/57f616be1e65c6279cba1b480023fde5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/38a12de66bddfa27c2dcc9da39e41cfe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7174caf2b00a3b4a26ef414f75a64675/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/0b6aa18307e42ae44ad77db57f03bcda/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/3e823245e41c65b0fa26c12840d21fec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/fb03efae3fb8b879c6f60beb4a440b1c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/9684e4f283f479ccfaa5d3a93ca79a2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/f7a2b2e7084731f664e4531b3ef8ba6c/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:2:3-26
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/f806ace453fe6ed323baeaa71747219c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/f806ace453fe6ed323baeaa71747219c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/960c61c1ce7602cdf0650d0d978bda88/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/960c61c1ce7602cdf0650d0d978bda88/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/5c46219e1590cb8f712c3aa43ef3e859/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/5c46219e1590cb8f712c3aa43ef3e859/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/bfb56c6715e0e3ded22374e0b8ec391b/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/bfb56c6715e0e3ded22374e0b8ec391b/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/5c46219e1590cb8f712c3aa43ef3e859/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.dream2019.MainActivity
+ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/f806ace453fe6ed323baeaa71747219c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/f806ace453fe6ed323baeaa71747219c/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/4e1cb267f7d423e9c517992b5b5bc1c0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/4e1cb267f7d423e9c517992b5b5bc1c0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7f95ead728395d866b34fc7534166e49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7f95ead728395d866b34fc7534166e49/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/b45ec582e99a1a83b43df1fd89078cf7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/b45ec582e99a1a83b43df1fd89078cf7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/792e20796f309563926fac5922c0c09b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/792e20796f309563926fac5922c0c09b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/0c0bbd00920c28589639f12a49a99cd7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/0c0bbd00920c28589639f12a49a99cd7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/d887ffedb2352323fc80a6b6761b85eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/d887ffedb2352323fc80a6b6761b85eb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/902214417e3b7484e524e938443c2bc2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/902214417e3b7484e524e938443c2bc2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/617340ee2fdcfab41bdb5327a7d6b762/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/617340ee2fdcfab41bdb5327a7d6b762/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/1816518bde527e5d7f2d6be14d6b0d02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/1816518bde527e5d7f2d6be14d6b0d02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/960c61c1ce7602cdf0650d0d978bda88/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/960c61c1ce7602cdf0650d0d978bda88/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/a5b1536f582c148892f5c24721e2c09d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/a5b1536f582c148892f5c24721e2c09d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7b64cc84b6ba06e7b26a2d0d71b89d93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7b64cc84b6ba06e7b26a2d0d71b89d93/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/2c7d568bfae6e91c6e65cea1702509e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/2c7d568bfae6e91c6e65cea1702509e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/a2c4ee8f9cb309dd5e4240d91f082cc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/a2c4ee8f9cb309dd5e4240d91f082cc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/550939e21c7a154c21a3ef6195c1fdac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/550939e21c7a154c21a3ef6195c1fdac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/fe4a6d9dc1418d522b4e0fc719249e65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/fe4a6d9dc1418d522b4e0fc719249e65/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/0f5e0659575f9002947abe0c1acba99e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/0f5e0659575f9002947abe0c1acba99e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/3a05051e904c37ce68f07ba6be24d1c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/3a05051e904c37ce68f07ba6be24d1c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/cb51e319fedeb92a206262195a530df7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/cb51e319fedeb92a206262195a530df7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/28042e6d5fd95db41db3efc8b297e393/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/28042e6d5fd95db41db3efc8b297e393/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/213e22c5b9a9d7773ca8345004dfb2d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/213e22c5b9a9d7773ca8345004dfb2d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/00d8de585434949a12882c8fd9d00bb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/00d8de585434949a12882c8fd9d00bb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/bff55977ef735392840c3f096bac6048/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/bff55977ef735392840c3f096bac6048/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/5c46219e1590cb8f712c3aa43ef3e859/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/5c46219e1590cb8f712c3aa43ef3e859/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/bfb56c6715e0e3ded22374e0b8ec391b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/bfb56c6715e0e3ded22374e0b8ec391b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/fcadcb4d5127d9086598361b31a7b274/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/fcadcb4d5127d9086598361b31a7b274/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/b5c38d0d2241f4769c7a56970315dabe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/b5c38d0d2241f4769c7a56970315dabe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/91723d499c42482d0ae5ef5d5a815ca6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/91723d499c42482d0ae5ef5d5a815ca6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/57f616be1e65c6279cba1b480023fde5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/57f616be1e65c6279cba1b480023fde5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/38a12de66bddfa27c2dcc9da39e41cfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/38a12de66bddfa27c2dcc9da39e41cfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7174caf2b00a3b4a26ef414f75a64675/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7174caf2b00a3b4a26ef414f75a64675/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/0b6aa18307e42ae44ad77db57f03bcda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/0b6aa18307e42ae44ad77db57f03bcda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/3e823245e41c65b0fa26c12840d21fec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/3e823245e41c65b0fa26c12840d21fec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/fb03efae3fb8b879c6f60beb4a440b1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/fb03efae3fb8b879c6f60beb4a440b1c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/9684e4f283f479ccfaa5d3a93ca79a2c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/9684e4f283f479ccfaa5d3a93ca79a2c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/f7a2b2e7084731f664e4531b3ef8ba6c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/f7a2b2e7084731f664e4531b3ef8ba6c/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/src/debug/AndroidManifest.xml:5:22-75
