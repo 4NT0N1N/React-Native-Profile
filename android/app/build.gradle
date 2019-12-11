@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.dream2019"
+        applicationId "com.flatlistprofile"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

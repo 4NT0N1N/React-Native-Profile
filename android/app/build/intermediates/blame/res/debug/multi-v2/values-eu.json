@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml",
+            "outputFile": "C:\\Users\\djano\\Desktop\\React\\Other\\FlatListRN\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
             "map": [
                 {
-                    "source": "/Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/5c46219e1590cb8f712c3aa43ef3e859/res/values-eu/values-eu.xml",
+                    "source": "C:\\Users\\djano\\.gradle\\caches\\transforms-2\\files-2.1\\185f5b9efd7c173d0ffd24d204b22e91\\core-1.0.1\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7f95ead728395d866b34fc7534166e49/res/values-eu/values-eu.xml",
+                    "source": "C:\\Users\\djano\\.gradle\\caches\\transforms-2\\files-2.1\\2c14eda98bc264ccf67c15fd0c8b9165\\appcompat-1.0.2\\res\\values-eu\\values-eu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -28,8 +28,8 @@ export default class Champ extends Component {
 
 const styles = StyleSheet.create({
     text: {
-      color: "#FFF",
-      fontSize: 14,
-      width: "45%"
+      color: "#000",
+      fontSize: 20,
+      width: "45%",
     }
   });

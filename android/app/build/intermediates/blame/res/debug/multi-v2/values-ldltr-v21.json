@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/yannickrodriguez/Projects/Cours/ReactNative/Dream2019/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "C:\\Users\\djano\\Desktop\\React\\Other\\FlatListRN\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/Users/yannickrodriguez/.gradle/caches/transforms-2/files-2.1/7f95ead728395d866b34fc7534166e49/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "C:\\Users\\djano\\.gradle\\caches\\transforms-2\\files-2.1\\2c14eda98bc264ccf67c15fd0c8b9165\\appcompat-1.0.2\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

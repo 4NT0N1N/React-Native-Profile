@@ -39,6 +39,9 @@ export default class Profile extends Component {
   render() {
 
     const {user,loading} = this.state
+
+    console.log('render profile')
+
     return (
       <View 
       style={styles.container}>
@@ -48,7 +51,7 @@ export default class Profile extends Component {
             ) : 
             (<React.Fragment>
             <Champ name="Utilisateur :" value={user.name} /> 
-             <Champ name="Username :" value= {user.username}/> 
+            <Champ name="Username :" value= {user.username}/> 
              </React.Fragment>)
             }
 
@@ -66,7 +69,9 @@ const styles = StyleSheet.create({
         justifyContent: 'center', 
         alignItems: 'center' , 
         borderWidth: 2, 
-        borderColor: '#FFF', 
+        borderColor: '#000', 
+        backgroundColor: '#303338',
+        flex: 1
      },
      load: {
          position:'absolute',

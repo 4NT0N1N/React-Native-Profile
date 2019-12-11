@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Button, TextInput, View } from 'react-native';
+import { Button, TextInput, View, Platform } from 'react-native';
 
 export default class SearchBar extends Component {
   constructor(props) {
@@ -22,7 +22,7 @@ export default class SearchBar extends Component {
           maxLength={2}
         />
         <Button 
-            color ="#FFF" 
+            color ={Platform.OS === "ios" ? "#FFF" : "#000"} 
             title= "Valider"
             onPress={() => {this.props.onSearch(text)}}
         /> 
